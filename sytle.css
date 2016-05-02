@@ -1,0 +1,68 @@
+body {
+  background-image: url('background.jpg')
+}
+
+#info {
+  background: red;
+  color: lightblue;
+  font-size: 20px;
+}
+
+#main-header {
+  background: green;
+  color: lightgreen;
+}
+
+#pictures-header {
+  background: cyan;
+}
+
+.caption {
+  background: white;
+  display: inline;
+}
+
+img {
+  border: 5px solid magenta;
+}
+
+hr {
+  border-color: orange;
+}
+
+.star-header {
+  background-image: url('star.jpg');
+  height: 50px;
+}
+
+h1 {
+  font-size: 66px;
+}
+
+#renna-header {
+  text-decoration: underline;
+}
+
+#dog-img {
+  width: 45px;
+  border: none;
+}
+
+#back-to-top {
+  background: yellow;
+  padding-bottom: 50px;
+}
+
+p#social-media-p {
+  background: red;
+}
+
+#social-links {
+  background: cyan;
+  width: 500px;
+  border: 3px dashed red;
+}
+
+#back-to-main {
+  background: white;
+}
