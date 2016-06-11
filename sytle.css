@@ -1,5 +1,5 @@
 body {
-  background-image: url('background.jpg')
+  background-image: url('images/background.jpg')
 }
 
 #info {
@@ -31,7 +31,7 @@ hr {
 }
 
 .star-header {
-  background-image: url('star.jpg');
+  background-image: url('images/star.jpg');
   height: 50px;
 }
 
