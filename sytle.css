@@ -1,20 +1,23 @@
 body {
-  background-image: url('images/background.jpg')
+  background-image: url('images/background.jpg');
 }
 
 #info {
   background: red;
   color: lightblue;
-  font-size: 20px;
+  font-size: 18px;
+  margin: 0px 5px;
 }
 
 #main-header {
   background: green;
   color: lightgreen;
+  margin: 20px 0px;
 }
 
 #pictures-header {
   background: cyan;
+  margin-right: 40px;
 }
 
 .caption {
@@ -33,10 +36,6 @@ hr {
 .star-header {
   background-image: url('images/star.jpg');
   height: 50px;
-}
-
-h1 {
-  font-size: 66px;
 }
 
 #renna-header {
@@ -65,4 +64,19 @@ p#social-media-p {
 
 #back-to-main {
   background: white;
+}
+
+.hit-count-area {
+  background: yellow;
+  font-size: 20px;
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
+
+#header-title {
+  font-size: 66px;
+  font-weight: bold;
 }
