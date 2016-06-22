@@ -43,8 +43,12 @@ hr {
 }
 
 #dog-img {
-  width: 45px;
+  width: 55px;
   border: none;
+}
+
+#shades {
+  width: 250px;
 }
 
 #back-to-top {
