@@ -1,6 +1,6 @@
 $(function(){
   $.ajax({
-    url: 'http://www.ari.host/api/pixels/0Z4XPO3m/hits',
+    url: 'http://www.ari.host/api/pixels/renna-online/hits',
     success: function(data) {
       var hits = data.totalHits
       $('#hit-count').text(hits)
